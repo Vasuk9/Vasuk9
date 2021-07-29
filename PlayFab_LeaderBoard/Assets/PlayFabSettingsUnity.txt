@@ -1,0 +1,19 @@
+**Playfab Unity Settings**
+----------------------------------------
+
+Download Unity PlayFabSDK from online
+
+
+///*** Editor Settings **///
+
+1)Click Windows in editor tab and select playfab editor extentions.
+3)login in to your playfab account.
+4)After login playfab go to settings and select studio name, titleid and save it...
+
+
+///*** PlayFab Setting in Scene ***///
+
+1)Click on playfabmanager object
+2)Copy and paste the GameTitleID from your Playfab account.(Both Android and IOS)
+
+
